@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Mitesh Malviya]
+# 👋 Hey, I'm Mitesh Malviya
 ### 📊 Data Analyst | Turning Data into Decisions
 
 Welcome to my space! I’m passionate about exploring, cleaning, and transforming data to uncover insights that drive smarter business outcomes.  
